@@ -15,6 +15,12 @@
 <tmdb>genre/movies/28</tmdb>
 </dir>
 
+<dir>
+<title>Kids Animated</title>
+<trakt>https://api.trakt.tv/users/shanstark71/lists/animation-movies/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+
 <plugin>
 <name>settings</name>
 <link>plugin://plugin.video.monster/?action=opensetting</link>
