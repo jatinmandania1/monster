@@ -21,6 +21,11 @@
 <thumbnail></thumbnail>
 </dir>
 
+<dir>
+<title>Trending Movies</title>
+<trakt>https://api.trakt.tv/movies/trending</trakt>
+</dir>
+
 <plugin>
 <name>settings</name>
 <link>plugin://plugin.video.monster/?action=opensetting</link>
