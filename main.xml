@@ -10,6 +10,11 @@
 <thumbnail>https://i.imgur.com/sZCj7eC.jpg</thumbnail>
 </dir>
 
+<dir>
+<title>TMDB Action Movies</title>
+<tmdb>genre/movies/28</tmdb>
+</dir>
+
 <plugin>
 <name>settings</name>
 <link>plugin://plugin.video.monster/?action=opensetting</link>
