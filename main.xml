@@ -22,6 +22,14 @@
 </dir>
 
 <dir>
+<title>movies</title>
+<link>movie/upcoming</link>
+<summary>Shows Trailers For Upcoming Movies</summary>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <title>TMDB Now Playing</title>
 <tmdb>movies/now_playing</tmdb>
 </dir>
