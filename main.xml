@@ -22,8 +22,32 @@
 </dir>
 
 <dir>
-<title>movies</title>
-<link>https://raw.githubusercontent.com/jatinmandania1/monster/master/movie/movie.xml</link>
+<title>Movies 2017</title>
+<link>https://raw.githubusercontent.com/jatinmandania1/monster/master/Movie%202017/movie.xml</link>
+<summary>Shows Trailers For Upcoming Movies</summary>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Movies 2016</title>
+<link>https://raw.githubusercontent.com/jatinmandania1/monster/master/Movie%202016/movie.xml</link>
+<summary>Shows Trailers For Upcoming Movies</summary>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Kids Movies</title>
+<link>https://raw.githubusercontent.com/jatinmandania1/monster/master/Kids%20Movie/kids%20movie.xml</link>
+<summary>Shows Trailers For Upcoming Movies</summary>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Movies 2018</title>
+<link>https://raw.githubusercontent.com/jatinmandania1/monster/master/Movie%202018/movie.xml</link>
 <summary>Shows Trailers For Upcoming Movies</summary>
 <thumbnail></thumbnail>
 <fanart></fanart>
