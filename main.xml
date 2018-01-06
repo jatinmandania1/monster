@@ -23,7 +23,7 @@
 
 <dir>
 <title>movies</title>
-<link>movie/upcoming</link>
+<link>https://raw.githubusercontent.com/jatinmandania1/monster/master/movie/movie.xml</link>
 <summary>Shows Trailers For Upcoming Movies</summary>
 <thumbnail></thumbnail>
 <fanart></fanart>
