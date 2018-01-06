@@ -42,6 +42,26 @@
 </dir>
 
 <dir>
+<title>Movies Released In 2015</title>
+<tmdb>year/movies/2015</tmdb>
+</dir>
+
+<dir>
+<title>Movies Released In 2016</title>
+<tmdb>year/movies/2016</tmdb>
+</dir>
+
+<dir>
+<title>Movies Released In 2017</title>
+<tmdb>year/movies/2017</tmdb>
+</dir>
+
+<dir>
+<title>Movies Released In 2018</title>
+<tmdb>year/movies/2018</tmdb>
+</dir>
+
+<dir>
 <title>Pixar Animation</title>
 <tmdb>company/movies/3</tmdb>
 </dir>
@@ -137,8 +157,8 @@
 </dir>
 
 <dir>
-  <title>Movie moana list</title>
-  <trakt>https://trakt.tv/movies/moana-2016/lists</trakt>
+  <title>Movie list</title>
+  <trakt></trakt>
 </dir>
 
 <plugin>
