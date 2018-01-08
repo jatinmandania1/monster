@@ -37,7 +37,7 @@
 <dir>
 <title>Kids boxsets Movies</title>
 <link>https://raw.githubusercontent.com/jatinmandania1/monster/master/Kids%20Movie/kids_boxset.xml</link>
-<summary>Shows Trailers For Upcoming Movies</summary>
+<summary></summary>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
@@ -169,11 +169,6 @@
 <dir>
 <title></title>
 <tmdb></tmdb>
-</dir>
-
-<dir>
-<title>Star Wars: The Last Jedi TRAILER</title>
-<tmdb>trailer/181808</tmdb>
 </dir>
 
 <dir>
