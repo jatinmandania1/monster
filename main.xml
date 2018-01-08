@@ -189,8 +189,9 @@
 </dir>
 
 <dir>
-  <title>Movie list</title>
-  <trakt></trakt>
+<title>Studio disney</title>
+<trakt>https://api.trakt.tv/users/shanstark71/lists/studio-disney-movies/items</trakt>
+<thumbnail></thumbnail>
 </dir>
 
 <plugin>
