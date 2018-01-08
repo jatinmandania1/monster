@@ -11,17 +11,6 @@
 </dir>
 
 <dir>
-<title>TMDB Action Movies</title>
-<tmdb>genre/movies/28</tmdb>
-</dir>
-
-<dir>
-<title>TMDB Upcoming</title>
-<tmdb>movie/upcoming</tmdb>
-<summary>Shows Trailers For Upcoming Movies</summary>
-</dir>
-
-<dir>
 <title>Movies 2017</title>
 <link>https://raw.githubusercontent.com/jatinmandania1/monster/master/Movie%202017/movie.xml</link>
 <summary>Shows Trailers For Upcoming Movies</summary>
@@ -51,6 +40,17 @@
 <summary>Shows Trailers For Upcoming Movies</summary>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</dir>
+
+<dir>
+<title>TMDB Action Movies</title>
+<tmdb>genre/movies/28</tmdb>
+</dir>
+
+<dir>
+<title>TMDB Upcoming</title>
+<tmdb>movie/upcoming</tmdb>
+<summary>Shows Trailers For Upcoming Movies</summary>
 </dir>
 
 <dir>
@@ -144,8 +144,8 @@
 </dir>
 
 <dir>
-<title>TMDB List: Animal Kingdom</title>
-<tmdb>list/13488</tmdb>
+<title></title>
+<tmdb></tmdb>
 </dir>
 
 <dir>
@@ -154,13 +154,13 @@
 </dir>
 
 <dir>
-<title>Bryan Cranston Shows TMDB</title>
-<tmdb>person/shows/17419</tmdb>
+<title></title>
+<tmdb></tmdb>
 </dir>
 
 <dir>
-<title>Bryan Cranston Movies TMDB</title>
-<tmdb>person/movies/17419</tmdb>
+<title></title>
+<tmdb></tmdb>
 </dir>
 
 <dir>
