@@ -162,8 +162,8 @@
 </dir>
 
 <dir>
-<title>production</title>
-<tmdb>https://raw.githubusercontent.com/jatinmandania1/monster/master/production%20company%20movies/production.xml</tmdb>
+<title>DreamWorks Animation</title>
+<tmdb>company/movies/521</tmdb>
 </dir>
 
 <dir>
@@ -172,13 +172,13 @@
 </dir>
 
 <dir>
-<title></title>
-<tmdb></tmdb>
+<title>Disney movies</title>
+<tmdb>company/movies/6421</tmdb>
 </dir>
 
 <dir>
-<title></title>
-<tmdb></tmdb>
+<title>Sony Pictures Entertainment</title>
+<tmdb>company/movies/5752</tmdb>
 </dir>
 
 <dir>
