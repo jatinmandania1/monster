@@ -152,8 +152,8 @@
 </dir>
 
 <dir>
-<title>movie years</title>
-<tmdb>https://raw.githubusercontent.com/jatinmandania1/monster/master/tmdb%20movies%20by%20years/movie-years.xml</tmdb>
+<title>2017 Movies</title>
+<tmdb>year/movies/2017</tmdb>
 </dir>
 
 <dir>
