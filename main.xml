@@ -172,6 +172,11 @@
 </dir>
 
 <dir>
+<title>Trending People</title>
+<tmdb>people/trending</tmdb>
+</dir>
+
+<dir>
 <title>Disney movies</title>
 <tmdb>company/movies/6421</tmdb>
 </dir>
