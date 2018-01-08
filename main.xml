@@ -172,8 +172,8 @@
 </dir>
 
 <dir>
-<title>Trending People</title>
-<tmdb>people/trending</tmdb>
+<title>TMDB Trending</title>
+<tmdb>movies/trending</tmdb>
 </dir>
 
 <dir>
