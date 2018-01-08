@@ -35,6 +35,14 @@
 </dir>
 
 <dir>
+<title>Kids boxsets Movies</title>
+<link>https://raw.githubusercontent.com/jatinmandania1/monster/master/Kids%20Movie/kids_boxset.xml</link>
+<summary>Shows Trailers For Upcoming Movies</summary>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <title>Movies 2018</title>
 <link>https://raw.githubusercontent.com/jatinmandania1/monster/master/Movie%202018/movie.xml</link>
 <summary>Shows Trailers For Upcoming Movies</summary>
@@ -144,8 +152,8 @@
 </dir>
 
 <dir>
-<title></title>
-<tmdb></tmdb>
+<title>movie years</title>
+<tmdb>https://raw.githubusercontent.com/jatinmandania1/monster/master/tmdb%20movies%20by%20years/movie-years.xml</tmdb>
 </dir>
 
 <dir>
