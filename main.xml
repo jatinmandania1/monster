@@ -122,11 +122,6 @@
 </dir>
 
 <dir>
-<title>TMDB riddick Collection</title>
-<tmdb>collection/10</tmdb>
-</dir>
-
-<dir>
 <title>TMDB Popular</title>
 <tmdb>tv/popular</tmdb>
 </dir>
@@ -142,7 +137,7 @@
 </dir>
 
 <dir>
-<title>TMDB On The Air</title>
+<title>Current Tv Shows</title>
 <tmdb>tv/on_the_air</tmdb>
 </dir>
 
