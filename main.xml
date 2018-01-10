@@ -197,8 +197,8 @@
 </dir>
 
 <dir>
-<title>Studio disney</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/studio-disney-movies/items</trakt>
+<title>IMDB Watchlist</title>
+<imdb>http://imdb.com/user/ur84215226/watchlist</imdb>
 <thumbnail></thumbnail>
 </dir>
 
