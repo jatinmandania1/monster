@@ -198,7 +198,7 @@
 
 <dir>
 <title>IMDB Watchlist</title>
-<imdb>http://www.imdb.com/list/watchlist?ref_=nv_wl_all_0</imdb>
+<tmdb>list/watchlist</tmdb>
 <thumbnail></thumbnail>
 </dir>
 
