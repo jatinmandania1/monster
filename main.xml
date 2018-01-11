@@ -11,6 +11,14 @@
 </dir>
 
 <dir>
+<title>Movies 2018</title>
+<link>https://raw.githubusercontent.com/jatinmandania1/monster/master/Movie%202018/movie.xml</link>
+<summary>Shows Trailers For Upcoming Movies</summary>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <title>Movies 2017</title>
 <link>https://raw.githubusercontent.com/jatinmandania1/monster/master/Movie%202017/movie.xml</link>
 <summary>Shows Trailers For Upcoming Movies</summary>
@@ -53,11 +61,11 @@
 </dir>
 
 <dir>
-<title>Movies 2018</title>
-<link>https://raw.githubusercontent.com/jatinmandania1/monster/master/Movie%202018/movie.xml</link>
-<summary>Shows Trailers For Upcoming Movies</summary>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>Tv Shows</title>
+<link></link>
+<summary>https://raw.githubusercontent.com/jatinmandania1/monster/master/Tv%20Shows/tvshows.xml</summary>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/257655-43.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/_cache/fanart/original/257655-47.jpg</fanart>
 </dir>
 
 <dir>
