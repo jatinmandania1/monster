@@ -62,8 +62,8 @@
 
 <dir>
 <title>Tv Shows</title>
-<link></link>
-<summary>https://raw.githubusercontent.com/jatinmandania1/monster/master/Tv%20Shows/tvshows.xml</summary>
+<link>https://raw.githubusercontent.com/jatinmandania1/monster/master/Tv%20Shows/tvshows.xml</link>
+<summary></summary>
 <thumbnail>https://www.thetvdb.com/banners/_cache/posters/257655-43.jpg</thumbnail>
 <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/257655-47.jpg</fanart>
 </dir>
