@@ -226,6 +226,11 @@
 <thumbnail></thumbnail>
 </dir>
 
+<dir>
+<name>Live TV [COLOUR limegreen]ONLINE[COLOUR]</name>
+<link>http://xxe.press/brickemgoodsoisay/live.xml</link>
+</dir>
+
 <plugin>
 <name>settings</name>
 <link>plugin://plugin.video.monster/?action=opensetting</link>
