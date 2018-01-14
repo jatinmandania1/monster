@@ -227,7 +227,7 @@
 </dir>
 
 <dir>
-<name>Live TV [COLOUR limegreen]ONLINE[COLOUR]</name>
+<name>Live TV [COLOUR limegreen]ONLINE[/COLOUR]</name>
 <link>https://raw.githubusercontent.com/jatinmandania1/monster/master/live%20tv..xml</link>
 </dir>
 
