@@ -17,15 +17,15 @@
 <plugin> 
 <title>[B][COLORlimegreen]my9[/COLOR][/B]</title> 
 <link>
-<sublink>http://thepk.co:2086/get.php?username=jatin555&password=56565&type=m3u&output=ts</sublink></link> 
+<sublink>http://thepk.co:2086/live/jatin555/56565/1613.ts</sublink></link> 
 <thumbnail>https://i.imgur.com/MP1ZuHy.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
 
 <plugin> 
-<title>[B][COLORlimegreen]NBA TV[/COLOR][/B]</title> 
+<title>[B][COLORlimegreen]ABC NEWS[/COLOR][/B]</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/73674/NBA-TV-(HD)</sublink></link> 
+<sublink>http://thepk.co:2086/live/jatin555/56565/108.ts</sublink></link> 
 <thumbnail>https://i.imgur.com/HNxkm4G.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
