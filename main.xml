@@ -237,3 +237,10 @@
 <animated_thumbnail>i.imgur.com/lbg.gif</animated_thumbnail>
 <thumbnail>http://i.imgur.com/TQTi54Z.jpg</thumbnail>
 </plugin>
+
+<plugin>
+<name>testing</name>
+<link>plugin://plugin.video.monster/?action=developer</link>
+<animated_thumbnail>i.imgur.com/lbg.gif</animated_thumbnail>
+<thumbnail>http://i.imgur.com/TQTi54Z.jpg</thumbnail>
+</plugin>
