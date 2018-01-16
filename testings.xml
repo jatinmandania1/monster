@@ -1,5 +1,5 @@
 <item>
 <title>test</title>
-<link>http://thepk.co:2086/get.php?username=jatin555&password=56565&type=m3u&output=ts</link>
+<link>http://thepk.co:2086/get.php?username=%s&password=%s&type=m3u&output=hls</link>
 </item>
 
