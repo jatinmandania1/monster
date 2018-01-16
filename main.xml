@@ -227,18 +227,6 @@
 </dir>
 
 <dir>
-<title>IMDB india trending</title>
-<tmdb>india/movie/trending</tmdb>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<title>IMDB india/top_rated</title>
-<tmdb>india/movie/top_rated</tmdb>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
 <name>Live TV [COLORlimegreen]ONLINE[/COLOR]</name>
 <link>https://raw.githubusercontent.com/jatinmandania1/monster/master/live%20tv..xml</link>
 </dir>
