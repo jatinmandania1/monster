@@ -228,13 +228,13 @@
 
 <dir>
 <title>IMDB india trending</title>
-<tmdb>india/trending</tmdb>
+<tmdb>india/movie/trending</tmdb>
 <thumbnail></thumbnail>
 </dir>
 
 <dir>
 <title>IMDB india/top_rated</title>
-<tmdb>india/top_rated</tmdb>
+<tmdb>india/movie/top_rated</tmdb>
 <thumbnail></thumbnail>
 </dir>
 
