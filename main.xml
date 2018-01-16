@@ -227,6 +227,12 @@
 </dir>
 
 <dir>
+<title>IMDB india/top_rated/indian/movies</title>
+<tmdb>india/top_rated</tmdb>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
 <name>Live TV [COLORlimegreen]ONLINE[/COLOR]</name>
 <link>https://raw.githubusercontent.com/jatinmandania1/monster/master/live%20tv..xml</link>
 </dir>
