@@ -7,7 +7,7 @@
 </plugin>
 
 <plugin> 
-<title>[B][COLORlimegreen]Fox Sports 1[/COLOR][/B]</title> 
+<title>[B][COLORlimegreen]sky racing 1[/COLOR][/B]</title> 
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Australia/Sky-Racing-1-28</sublink></link> 
 <thumbnail>https://i.imgur.com/bqkqq6V.jpg</thumbnail> 
@@ -15,47 +15,47 @@
 </plugin>
 
 <plugin> 
-<title>[B][COLORlimegreen]my9[/COLOR][/B]</title> 
+<title>[B][COLORlimegreen]sky racing 2[/COLOR][/B]</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://thepk.co:2086/live/jatin555/56565/108.ts</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Australia/Sky-Racing-2-29</sublink></link> 
 <thumbnail>https://i.imgur.com/MP1ZuHy.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
 
 <plugin> 
-<title>[B][COLORlimegreen]ABC NEWS[/COLOR][/B]</title> 
+<title>[B][COLORlimegreen]TSN-1[/COLOR][/B]</title> 
 <link>
-<sublink>http://thepk.co:2086/live/jatin555/56565/108.ts</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Canada/The-Sports-Network-1-(TSN-1)-12</sublink></link> 
 <thumbnail>https://i.imgur.com/HNxkm4G.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
 
 <plugin> 
-<title>[B][COLORlimegreen]NBC Sports[/COLOR][/B]</title> 
+<title>[B][COLORlimegreen]TSN-2[/COLOR][/B]</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/64232/NBC-Sport-Network-(HD)</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Canada/The-Sports-Network-2-(TSN-2)-13</sublink></link> 
 <thumbnail>https://i.imgur.com/eU3ogZj.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
 
 <plugin> 
-<title>[B][COLORlimegreen]NCAA Sports[/COLOR][/B]</title> 
+<title>[B][COLORlimegreen]TSN-3[/COLOR][/B]</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/75275/Tennis:-WTA-Tour-Sydney/-Barcelona-vs-Celta-de-Vigo/-NCAA:-Ohio-State-vs-Maryland</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Canada/The-Sports-Network-3-(TSN-3)-14</sublink></link> 
 <thumbnail>https://i.imgur.com/aHD4jJe.png</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
 
 <plugin> 
-<title>[B][COLORlimegreen]NFL Network[/COLOR][/B]</title> 
+<title>[B][COLORlimegreen]RDS[/COLOR][/B]</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/68875/NFL-Network(HD)</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Canada/R%C3%A9seau-des-sports-(RDS)-16</sublink></link> 
 <thumbnail>https://i.imgur.com/SMsjmJN.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
 
 <item>
-<title>[/B][COLORlimegreen]NFL Network 2[/COLOR][/B]</title>
+<title>[/B][COLORlimegreen]Sports[/COLOR][/B]</title>
 <link>
 <sublink>https://pcva2.manifest.auditude.com/auditude/live/30012020-2020-4e46-4c4e-4554574f524b/5126/a25b6c35-2565-4bf5-ba70-e6abcdb7b50e/aHR0cHM6Ly9uZmxobHNsaXZlMS1pLmFrYW1haWhkLm5ldC9obHMvbGl2ZS81MTcyOTkvbmZsbi81MDk2ay9uZmxuLm0zdTg.m3u8?pttrackingversion=v1&u=cecebae72a919de350b9ac52602623f3&pttrackingmode=sstm&g=1000003&z=264057&k=iu=/4595/nfl.live/web;method=server;cust_params=slot%3Dvideo%26s1%3Dlive%26s2%3Dnfln_3rd%26s3%3D3rd_auth_web%26affiliate%3DNFLN&ptcueformat=turner</sublink>
 </link>
@@ -72,9 +72,9 @@
 </plugin>
 
 <plugin> 
-<title>[B][COLORlimegreen]Sports Mix[/COLOR][/B]</title> 
+<title>[B][COLORlimegreen]Sports 1[/COLOR][/B]</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/73597/Voleiball:-AlpenVolleys-vs-VfB-Friedrichshafen/-NHL:-Minnesota-Wild-vs-Chicago</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Germany/sport1-14</sublink></link> 
 <thumbnail>https://i.imgur.com/hS0gdaV.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
@@ -96,17 +96,17 @@
 </plugin>
 
 <plugin> 
-<title>[B][COLORlimegreen]Sports Mix[/COLOR][/B]</title> 
+<title>[B][COLORlimegreen]Sports news[/COLOR][/B]</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/73597/Voleiball:-AlpenVolleys-vs-VfB-Friedrichshafen/-NHL:-Minnesota-Wild-vs-Chicago</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Germany/Sky-Sport-News-HD-48</sublink></link> 
 <thumbnail>https://i.imgur.com/hS0gdaV.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
 
 <plugin> 
-<title>[B][COLORlimegreen]Sports Mix[/COLOR][/B]</title> 
+<title>[B][COLORlimegreen]Sports tv 1 (HD)[/COLOR][/B]</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/75276/NHL:-Minnesota-vs-Chicago/-Golf:-The-BMW-South-African-Open/-Volleyball:-Z%C3%BCrich-vs-ASPTT-Mulhouse/</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Portugal/SPORT-TV-1-13</sublink></link> 
 <thumbnail>https://i.imgur.com/hS0gdaV.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
@@ -120,6 +120,158 @@
     <thumbnail></thumbnail>
     <fanart>https://i.imgur.com/XITnkbK.jpg</fanart>
 </dir>
+
+<plugin> 
+<title>[B][COLORlimegreen]Sports tv 2 (HD)[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Portugal/SPORT-TV-2-14</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Sports tv 3 (HD)[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Portugal/SPORT-TV-3-16</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Euro Sports 1[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Eurosport-1-34</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Euro Sports 2[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Eurosport-2-35</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]BBC One[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/BBC-One-4</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]ITV 1[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/ITV1-21</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]BBC News[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/BBC-News-2</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Disney Channel[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Disney-Channel-43</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Discovery Channel[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Discovery-Channel-42</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Comedy Central[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Comedy-Central-56</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Motorsport.tv[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Motorsport.tv-84</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]National-Geographic-Channel[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/National-Geographic-Channel-62</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Nicktoons[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Nicktoons-88</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Disney-Junior[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Disney-Junior-76</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Nickelodeon[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Nickelodeon-87</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Viva[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Viva-120</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Bloomberg[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Bloomberg-Television-9</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Box-Hits[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Box-Hits-103</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Premier Sports[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Premier-Sports-89</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
 
 <plugin> 
 <title>[B][COLORlimegreen]BT Sports 1[/COLOR][/B]</title> 
@@ -307,43 +459,43 @@
 </item>
 
 <plugin> 
-<title></title> 
+<title>B4U-Music</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/India/B4U-Music-154</sublink></link> 
 <thumbnail></thumbnail> 
-<fanart>http://gatortv.info/sassygator/tv/networks/</fanart> 
+<fanart></fanart> 
 </plugin>
 
 <plugin> 
-<title>Fox 43 York, Pennsylvania</title> 
+<title>B4U-Movies</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://videoserver1.org/live/xM1Oz0f1LHmd8-aHGa_DUQ/1515128505/c2f52b70c2324ba134b2cba2962bedae.m3u8</sublink></link> 
-<thumbnail>http://gatortv.info/sassygator/tv/images/fox43.png</thumbnail> 
-<fanart>http://gatortv.info/sassygator/tv/networks/</fanart> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/India/B4U-Movies-157</sublink></link> 
+<thumbnail></thumbnail> 
+<fanart></fanart> 
 </plugin>
 
 <plugin> 
-<title></title> 
+<title>Desi-TV</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/India/Desi-TV-186</sublink></link> 
 <thumbnail></thumbnail> 
-<fanart>http://gatortv.info/sassygator/tv/networks/</fanart> 
+<fanart></fanart> 
 </plugin>
 
 <plugin> 
-<title></title> 
+<title>Zoom</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/India/Zoom-57</sublink></link> 
 <thumbnail></thumbnail> 
-<fanart>http://gatortv.info/sassygator/tv/networks/</fanart> 
+<fanart></fanart> 
 </plugin>
 
 <plugin> 
-<title></title> 
+<title>Music-India</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/India/Music-India-152</sublink></link> 
 <thumbnail></thumbnail> 
-<fanart>http://gatortv.info/sassygator/tv/networks/</fanart> 
+<fanart>https://www.firstonetv.net/Live/India/Music-India.png</fanart> 
 
 <dir>
     <name>[B][COLORred]MORE COMING SOON[/COLOR][/B]</name>
