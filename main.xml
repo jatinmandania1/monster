@@ -237,6 +237,11 @@
 <link>https://raw.githubusercontent.com/jatinmandania1/monster/master/live%20tv..xml</link>
 </dir>
 
+<dir>
+<name>Live TV 1[COLORlimegreen]ONLINE[/COLOR]</name>
+<link>https://raw.githubusercontent.com/jatinmandania1/monster/master/live%20tv%201.xml</link>
+</dir>
+
 <plugin>
 <name>settings</name>
 <link>plugin://plugin.video.monster/?action=opensetting</link>
