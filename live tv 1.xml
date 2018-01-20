@@ -1,0 +1,80 @@
+<plugin> 
+<title>[B][COLORlimegreen]ESPN 2[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/57977/ESPN-2-(HD)</sublink></link> 
+<thumbnail>https://i.imgur.com/YgcSYlh.png</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Fox Sports 1[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/71971/Fox-Sport-1-(HD)</sublink></link> 
+<thumbnail>https://i.imgur.com/bqkqq6V.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Golf Channel[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/53912/Golf-channel-(HD)</sublink></link> 
+<thumbnail>https://i.imgur.com/MP1ZuHy.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]NBA TV[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/73674/NBA-TV-(HD)</sublink></link> 
+<thumbnail>https://i.imgur.com/HNxkm4G.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]NBC Sports[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/64232/NBC-Sport-Network-(HD)</sublink></link> 
+<thumbnail>https://i.imgur.com/eU3ogZj.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]NCAA Sports[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/75275/Tennis:-WTA-Tour-Sydney/-Barcelona-vs-Celta-de-Vigo/-NCAA:-Ohio-State-vs-Maryland</sublink></link> 
+<thumbnail>https://i.imgur.com/aHD4jJe.png</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]NFL Network[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/68875/NFL-Network(HD)</sublink></link> 
+<thumbnail>https://i.imgur.com/SMsjmJN.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<item>
+<title>[/B][COLORlimegreen]NFL Network 2[/COLOR][/B]</title>
+<link>
+<sublink>https://pcva2.manifest.auditude.com/auditude/live/30012020-2020-4e46-4c4e-4554574f524b/5126/a25b6c35-2565-4bf5-ba70-e6abcdb7b50e/aHR0cHM6Ly9uZmxobHNsaXZlMS1pLmFrYW1haWhkLm5ldC9obHMvbGl2ZS81MTcyOTkvbmZsbi81MDk2ay9uZmxuLm0zdTg.m3u8?pttrackingversion=v1&u=cecebae72a919de350b9ac52602623f3&pttrackingmode=sstm&g=1000003&z=264057&k=iu=/4595/nfl.live/web;method=server;cust_params=slot%3Dvideo%26s1%3Dlive%26s2%3Dnfln_3rd%26s3%3D3rd_auth_web%26affiliate%3DNFLN&ptcueformat=turner</sublink>
+</link>
+<thumbnail>https://i.imgur.com/SMsjmJN.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<plugin> 
+<title>[B][COLORlimegreen]Premier League Events[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/73641/Premier-League-/-Events---Max</sublink></link> 
+<thumbnail>https://i.imgur.com/UNTSjIM.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]Sports Mix[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/73597/Voleiball:-AlpenVolleys-vs-VfB-Friedrichshafen/-NHL:-Minnesota-Wild-vs-Chicago</sublink></link> 
+<thumbnail>https://i.imgur.com/hS0gdaV.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
