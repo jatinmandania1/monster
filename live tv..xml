@@ -1,7 +1,7 @@
 <plugin> 
 <title>[B][COLORlimegreen]ESPN 2[/COLOR][/B]</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://163.172.18.54:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/10.ts</sublink></link> 
+<sublink>http://163.172.18.54:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/10.ts</sublink></link> 
 <thumbnail>https://i.imgur.com/YgcSYlh.png</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
