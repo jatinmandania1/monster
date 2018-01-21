@@ -252,8 +252,14 @@
 </dir>
 
 <plugin>
-<title>indian fever</title>
+<title>New hindi songs</title>
 <link>https://raw.githubusercontent.com/jatinmandania1/monster/master/playlist.xml</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>New hindi chart</title>
+<link>plugin://plugin.video.youtube/playlist/PLw-VjHDlEOgvh3fIZ8VSWWE09eYGO8uFI/</link>
 <thumbnail></thumbnail>
 </plugin>
 
