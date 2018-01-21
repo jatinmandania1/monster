@@ -253,13 +253,13 @@
 
 <plugin>
 <title>indian fever</title>
-<link>https://raw.githubusercontent.com/jatinmandania1/monster/master/playlist.xml</link>
+<link>plugin://plugin.video.youtube/playlist/PLIVbZhwLbExL3Y9G7t/</link>
 <thumbnail></thumbnail>
 </plugin>
 
 <plugin>
 <title>music chart</title>
-<link>plugin://plugin.video.youtube/playlist/PLR9VUPiCwWiEhPgPVxTNgtRvbghtvO2-m/</link>
+<link>plugin://plugin.video.youtube/playlist/PLIVbZhwLbExL3Y9G7t/</link>
 <thumbnail></thumbnail>
 </plugin>
 
