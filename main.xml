@@ -239,6 +239,11 @@
     <title>[B][COLORwhite]will Smith[/COLOR][/B]</title>
     <trakt>https://api.trakt.tv/people/will-Smith/movies</trakt>
   </dir>
+  
+  <dir>
+  <title>indian Track Chart</title>
+  <lastfm>indian/chart/tracks</lastfm>
+</dir>
 
 <dir>
 <title>IMDB Watchlist</title>
