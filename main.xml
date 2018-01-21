@@ -258,6 +258,11 @@
 </plugin>
 
 <dir>
+<name>Gurbani Channel [COLORBlue]Channel[/COLOR]</name>
+<link>https://pastebin.com/raw/AtSZuLkg</link>
+</dir>
+
+<dir>
 <name>Kids Toons [COLORlimegreen]Channel[/COLOR]</name>
 <link>https://pastebin.com/raw/4amXx4k3</link>
 </dir>
@@ -268,38 +273,8 @@
 </dir>
 
 <plugin>
-<title>bollywood mix music channel</title>
-<link>plugin://plugin.video.youtube/channel/UCq-Fj5jknLsUf-MWSy4_brA/playlists/</link>
-<thumbnail></thumbnail>
-</plugin>
-
-<plugin>
-<title>New mix musics</title>
-<link>plugin://plugin.video.youtube/playlist/PLw-VjHDlEOgvh3fIZ8VSWWE09eYGO8uFI/</link>
-<thumbnail></thumbnail>
-</plugin>
-
-<plugin>
 <title>hip-hop top chart</title>
 <link>plugin://plugin.video.youtube/playlist/PLR9VUPiCwWiEhPgPVxTNgtRvbghtvO2-m/</link>
-<thumbnail></thumbnail>
-</plugin>
-
-<plugin>
-<title>punjabi musics</title>
-<link>plugin://plugin.video.youtube/playlist/PLOkNFfDtrpKPrWHnsZsknNR7y4vCa9CcJ/</link>
-<thumbnail></thumbnail>
-</plugin>
-
-<plugin>
-<title>bollywood music channel</title>
-<link>plugin://plugin.video.youtube/channel/UC3MLnJtqc_phABBriLRhtgQ/playlists/</link>
-<thumbnail></thumbnail>
-</plugin>
-
-<plugin>
-<title>apna punjab channel</title>
-<link>plugin://plugin.video.youtube/channel/UCcvNYxWXR_5TjVK7cSCdW-g/playlists/</link>
 <thumbnail></thumbnail>
 </plugin>
 
