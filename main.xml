@@ -281,6 +281,12 @@
 <thumbnail></thumbnail>
 </plugin>
 
+<plugin>
+<title>b4u movie channel</title>
+<link>plugin://plugin.video.youtube/channel/UCAB29sl-DN4Gq3GL1Cj_OlQ/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
+
 <dir>
 <title>Jatin cartoons</title>
 <tmdb>list/45341</tmdb>
