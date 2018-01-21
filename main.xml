@@ -234,6 +234,11 @@
     <title>[B][COLORwhite]Vin Diesel[/COLOR][/B]</title>
     <trakt>https://api.trakt.tv/people/Vin-Diesel/movies</trakt>
   </dir>
+  
+  <dir>
+    <title>[B][COLORwhite]will Smith[/COLOR][/B]</title>
+    <trakt>https://api.trakt.tv/people/will-Smith/movies</trakt>
+  </dir>
 
 <dir>
 <title>IMDB Watchlist</title>
