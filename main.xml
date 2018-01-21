@@ -216,34 +216,34 @@
 </dir>
 
 <dir>
-  <title>Movie Collection</title>
-  <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+<title>Movie Collection</title>
+<trakt>https://api.trakt.tv/sync/collection/movies</trakt>
 </dir>
 
 <dir>
-    <title>[B][COLORwhite]Jason Statham[/COLOR][/B]</title>
-    <trakt>https://api.trakt.tv/people/Jason-Statham/movies</trakt>
-  </dir>
-  
-  <dir>
-    <title>[B][COLORwhite]Liam Neeson[/COLOR][/B]</title>
-    <trakt>https://api.trakt.tv/people/Liam-Neeson/movies</trakt>
-  </dir>
-  
-  <dir>
-    <title>[B][COLORwhite]Vin Diesel[/COLOR][/B]</title>
-    <trakt>https://api.trakt.tv/people/Vin-Diesel/movies</trakt>
-  </dir>
-  
-  <dir>
-    <title>[B][COLORwhite]will Smith[/COLOR][/B]</title>
-    <trakt>https://api.trakt.tv/people/will-Smith/movies</trakt>
-  </dir>
-  
-  <dir>
-  <title>indian Track Chart</title>
-  <lastfm>indian/chart/tracks</lastfm>
+<title>[B][COLORwhite]Jason Statham[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/people/Jason-Statham/movies</trakt>
 </dir>
+  
+<dir>
+<title>[B][COLORwhite]Liam Neeson[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/people/Liam-Neeson/movies</trakt>
+</dir>
+  
+<dir>
+<title>[B][COLORwhite]Vin Diesel[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/people/Vin-Diesel/movies</trakt>
+</dir>
+  
+<dir>
+<title>[B][COLORwhite]will Smith[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/people/will-Smith/movies</trakt>
+</dir>
+  
+<dir>
+<title>Track Chart</title>
+<lastfm>chart/tracks</lastfm>
+</dir>>
 
 <dir>
 <title>IMDB Watchlist</title>
