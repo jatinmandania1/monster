@@ -16,8 +16,7 @@
 
 <plugin> 
 <title>[B][COLORlimegreen]samaa[/COLOR][/B]</title> 
-<link>
-<sublink>http://163.172.62.63:8000/live/Bhakjd/515533/4003.ts</sublink></link> 
+<link>plugin://plugin.video,f4m Tester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.62.63:8000/live/Bhakjd/515533/4003.ts</link> 
 <thumbnail>https://i.imgur.com/MP1ZuHy.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
