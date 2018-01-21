@@ -221,6 +221,21 @@
 </dir>
 
 <dir>
+    <title>[B][COLORwhite]Jason Statham[/COLOR][/B]</title>
+    <trakt>https://api.trakt.tv/people/Jason-Statham/movies</trakt>
+  </dir>
+  
+  <dir>
+    <title>[B][COLORwhite]Liam Neeson[/COLOR][/B]</title>
+    <trakt>https://api.trakt.tv/people/Liam-Neeson/movies</trakt>
+  </dir>
+  
+  <dir>
+    <title>[B][COLORwhite]Vin Diesel[/COLOR][/B]</title>
+    <trakt>https://api.trakt.tv/people/Vin-Diesel/movies</trakt>
+  </dir>
+
+<dir>
 <title>IMDB Watchlist</title>
 <tmdb>list/watchlist</tmdb>
 <thumbnail></thumbnail>
