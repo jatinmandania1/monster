@@ -263,6 +263,12 @@
 <thumbnail></thumbnail>
 </plugin>
 
+<plugin>
+<title>indian chart</title>
+<link>plugin://plugin.video.youtube/playlist/PLOkNFfDtrpKPveK3l/</link>
+<thumbnail></thumbnail>
+</plugin>
+
 <dir>
 <title>Jatin cartoons</title>
 <tmdb>list/45341</tmdb>
