@@ -258,8 +258,8 @@
 </plugin>
 
 <plugin>
-<title>bollywood chart</title>
-<link>plugin://plugin.video.youtube/playlist/-FpevlbCkeylqb0/</link>
+<title>music chart</title>
+<link>plugin://plugin.video.youtube/playlist?list=PLIVbZhwLbExL3Y9G7t-FpevlbCkeylqb0/</link>
 <thumbnail></thumbnail>
 </plugin>
 
