@@ -258,10 +258,15 @@
 </plugin>
 
 <plugin>
-<title>kids channel</title>
+<title>baby channel (0-5 years old)</title>
 <link>plugin://plugin.video.youtube/channel/UChz5aEi3dfrDVC8-YJsMUDA/playlists/</link>
 <thumbnail></thumbnail>
 </plugin>
+
+<dir>
+<name>Tom & Jerry  [COLORlimegreen]Channel[/COLOR]</name>
+<link>https://pastebin.com/raw/7gicNpwW</link>
+</dir>
 
 <plugin>
 <title>bollywood mix music channel</title>
