@@ -14,25 +14,26 @@
 <fanart>https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/boogle-bollywood-black.jpg</fanart> 
 </plugin>
 
-<item> 
-<name>[B][COLORlimegreen]samaa[/COLOR][/B]</name> 
-<link>plugin://plugin.video,f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.62.63:8000/live/Bhakjd/515533/4003.ts</link> 
-<thumbnail>https://i.imgur.com/MP1ZuHy.jpg</thumbnail> 
+<plugin> 
+<title>[B][COLORlimegreen]bein sport[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/73658/Bein-Sport-%C3%91-/-VipRacing</sublink></link> 
+<thumbnail>https://i.imgur.com/HNxkm4G.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
-</item>
+</plugm>
 
 <plugin> 
 <title>[B][COLORlimegreen]TSN-1[/COLOR][/B]</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Canada/The-Sports-Network-1-(TSN-1)-12</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/71971/Fox-Sport-1-(HD)</sublink></link> 
 <thumbnail>https://i.imgur.com/HNxkm4G.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
 
 <plugin> 
-<title>[B][COLORlimegreen]TSN-2[/COLOR][/B]</title> 
+<title>[B][COLORlimegreen]Golf-channel-(HD[/COLOR][/B]</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Canada/The-Sports-Network-2-(TSN-2)-13</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/53912/Golf-channel-(HD)</sublink></link> 
 <thumbnail>https://i.imgur.com/eU3ogZj.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
@@ -46,9 +47,9 @@
 </plugin>
 
 <plugin> 
-<title>[B][COLORlimegreen]RDS[/COLOR][/B]</title> 
+<title>[B][COLORlimegreen]Fox-Movie-Channel[/COLOR][/B]</title> 
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://adsrvmedia.adk2x.com/imp?p=75859590&ct=html&ap=1303</sublink></link> 
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/38449/Fox-Movie-Channel</sublink></link> 
 <thumbnail>https://i.imgur.com/SMsjmJN.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
 </plugin>
