@@ -275,6 +275,12 @@
 <thumbnail></thumbnail>
 </plugin>
 
+<plugin>
+<title>indian channel</title>
+<link>plugin://plugin.video.youtube/channel/PLIVbZhwLbExL3Y9G7t-FpevlbCkeylqb0/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
+
 <dir>
 <title>Jatin cartoons</title>
 <tmdb>list/45341</tmdb>
