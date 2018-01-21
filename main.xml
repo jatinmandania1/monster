@@ -251,14 +251,8 @@
 <thumbnail></thumbnail>
 </dir>
 
-<plugin>
-<title>Gurbani channel</title>
-<link>plugin://plugin.video.youtube/channel/UCtMzmAmF_zS3ryeADetzzKg/playlists/</link>
-<thumbnail></thumbnail>
-</plugin>
-
 <dir>
-<name>Gurbani Channel [COLORlimeblue]Channel[/COLOR]</name>
+<name>Gurbani [COLORlimeblue]Channel[/COLOR]</name>
 <link>https://pastebin.com/raw/gMa2Xy0e</link>
 </dir>
 
@@ -272,17 +266,15 @@
 <link>https://pastebin.com/raw/GBqNweq3</link>
 </dir>
 
-<plugin>
-<title>hip-hop top chart</title>
-<link>plugin://plugin.video.youtube/playlist/PLR9VUPiCwWiEhPgPVxTNgtRvbghtvO2-m/</link>
-<thumbnail></thumbnail>
-</plugin>
+<dir>
+<name>Mix Hip-Hop Squad [COLORlimegreen]Channel[/COLOR]</name>
+<link>https://pastebin.com/raw/sQzknPqu</link>
+</dir>
 
-<plugin>
-<title>Bhakti Sagar channel</title>
-<link>plugin://plugin.video.youtube/channel/UCaayLD9i5x4MmIoVZxXSv_g/playlists/</link>
-<thumbnail></thumbnail>
-</plugin>
+<dir>
+<name>Sukh Sagar [COLORlimegreen]Channel[/COLOR]</name>
+<link>https://pastebin.com/raw/7AmdVrjp</link>
+</dir>
 
 <dir>
 <title>Jatin cartoons</title>
