@@ -252,8 +252,20 @@
 </dir>
 
 <plugin>
-<title>New hindi songs</title>
-<link>https://raw.githubusercontent.com/jatinmandania1/monster/master/playlist.xml</link>
+<title>Gurbani channel</title>
+<link>plugin://plugin.video.youtube/channel/UCCau8JQYJWTgbN8UoR5NmZA/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>kids channel</title>
+<link>plugin://plugin.video.youtube/channel/UChz5aEi3dfrDVC8-YJsMUDA/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>bollywood mix music channel</title>
+<link>plugin://plugin.video.youtube/channel/UCq-Fj5jknLsUf-MWSy4_brA/playlists/</link>
 <thumbnail></thumbnail>
 </plugin>
 
@@ -284,6 +296,12 @@
 <plugin>
 <title>apna punjab channel</title>
 <link>plugin://plugin.video.youtube/channel/UCcvNYxWXR_5TjVK7cSCdW-g/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Bhakti Sagar channel</title>
+<link>plugin://plugin.video.youtube/channel/UCaayLD9i5x4MmIoVZxXSv_g/playlists/</link>
 <thumbnail></thumbnail>
 </plugin>
 
