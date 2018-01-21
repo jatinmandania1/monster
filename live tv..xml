@@ -14,12 +14,12 @@
 <fanart>https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/boogle-bollywood-black.jpg</fanart> 
 </plugin>
 
-<plugin> 
-<title>[B][COLORlimegreen]samaa[/COLOR][/B]</title> 
+<item> 
+<name>[B][COLORlimegreen]samaa[/COLOR][/B]</name> 
 <link>plugin://plugin.video,f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.62.63:8000/live/Bhakjd/515533/4003.ts</link> 
 <thumbnail>https://i.imgur.com/MP1ZuHy.jpg</thumbnail> 
 <fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
-</plugin>
+</item>
 
 <plugin> 
 <title>[B][COLORlimegreen]TSN-1[/COLOR][/B]</title> 
