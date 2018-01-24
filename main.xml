@@ -154,8 +154,3 @@
 <thumbnail>http://i.imgur.com/TQTi54Z.jpg</thumbnail>
 </plugin>
 
-<plugin>
-<name>search</name>
-<link>plugin://plugin.video.monster/?action=search</link>
-<thumbnail></thumbnail>
-</plugin>
